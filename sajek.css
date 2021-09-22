@@ -1,0 +1,26 @@
+
+
+#body{
+    background-color: #F4F6FC;
+}
+
+h4{
+    text-align: center;
+}
+
+.sajek{
+    height:180px ;
+    width:300px ;
+    border: 5px solid #ddb812;
+    border-radius: 10px;
+    margin: 5px 5px;
+    float: left;
+    padding: 5px;
+    text-align: center;
+    text-align: justify;
+    background-color: solid white;
+    color: black;
+    font-family: arial;
+  
+
+}
